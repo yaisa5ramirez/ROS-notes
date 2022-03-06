@@ -27,3 +27,6 @@ Roslaunch files: nombro todos los nodos que quiero ejecutar
 Debo crear la carpeta launch en la cual voy a poner los launch files 
 
 
+Todos los pasos están en la presentación:
+  https://docs.google.com/presentation/d/1dcxUdE2Qhh68PRWdMzYk-tVv3kMFFG7CdgbKspdl4XU/edit#slide=id.g11853f65f98_4_38 
+  Autor: Cristobal Arroyo
