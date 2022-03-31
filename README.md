@@ -30,3 +30,12 @@ Debo crear la carpeta launch en la cual voy a poner los launch files
 Todos los pasos están en la presentación:
   https://docs.google.com/presentation/d/1dcxUdE2Qhh68PRWdMzYk-tVv3kMFFG7CdgbKspdl4XU/edit#slide=id.g11853f65f98_4_38 
   Autor: Cristobal Arroyo
+
+  LINKS: 
+  
+  http://docs.ros.org/en/indigo/api/moveit_tutorials/html/doc/ros_visualization/visualization_tutorial.html 
+  https://arxiv.org/pdf/1909.05035.pdf 
+  https://docs.ipswitch.com/MOVEit/DMZ8.1/Manuals/MOVEit%20DMZ%20Administrator's%20Guide.pdf 
+  http://wiki.ros.org/moveit_msgs 
+  http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/motion_planning_pipeline/motion_planning_pipeline_tutorial.html#:~:text=In%20MoveIt%2C%20the%20motion%20planners,(e.g.%20for%20time%20parameterization). 
+  
