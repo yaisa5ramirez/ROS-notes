@@ -41,4 +41,5 @@ Todos los pasos están en la presentación:
   
 
   Opciones:
-  Codigo para usar el moveit_commander. Se encuentra en: Moveit Commander Scripting del tutorial de moveit
+  Crear un .launch para ver el estado actual de los joints y la solucion de cinematica inversa. 
+ http://docs.ros.org/en/melodic/api/moveit_tutorials/html/doc/robot_model_and_robot_state/robot_model_and_robot_state_tutorial.html
