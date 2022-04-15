@@ -43,3 +43,6 @@ Todos los pasos están en la presentación:
   Opciones:
   Crear un .launch para ver el estado actual de los joints y la solucion de cinematica inversa. 
  http://docs.ros.org/en/melodic/api/moveit_tutorials/html/doc/robot_model_and_robot_state/robot_model_and_robot_state_tutorial.html
+  
+  Planear un goal y visualizarlo
+  http://docs.ros.org/en/melodic/api/moveit_tutorials/html/doc/motion_planning_api/motion_planning_api_tutorial.html
