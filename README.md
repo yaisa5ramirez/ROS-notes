@@ -39,3 +39,6 @@ Todos los pasos están en la presentación:
   http://wiki.ros.org/moveit_msgs 
   http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/motion_planning_pipeline/motion_planning_pipeline_tutorial.html#:~:text=In%20MoveIt%2C%20the%20motion%20planners,(e.g.%20for%20time%20parameterization). 
   
+
+  Opciones:
+  Codigo para usar el moveit_commander. Se encuentra en: Moveit Commander Scripting del tutorial de moveit
