@@ -38,6 +38,7 @@ Todos los pasos están en la presentación:
   https://docs.ipswitch.com/MOVEit/DMZ8.1/Manuals/MOVEit%20DMZ%20Administrator's%20Guide.pdf 
   http://wiki.ros.org/moveit_msgs 
   http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/motion_planning_pipeline/motion_planning_pipeline_tutorial.html#:~:text=In%20MoveIt%2C%20the%20motion%20planners,(e.g.%20for%20time%20parameterization). 
+  https://slaterobotics.medium.com/how-to-implement-ros-control-on-a-custom-robot-748b52751f2e
   
 
   Opciones:
@@ -46,3 +47,11 @@ Todos los pasos están en la presentación:
   
   Planear un goal y visualizarlo
   http://docs.ros.org/en/melodic/api/moveit_tutorials/html/doc/motion_planning_api/motion_planning_api_tutorial.html
+  
+  
+  
+  Desde cero:
+  
+  Crear xacros e iniciar todo usando el Moveit Setup Assistant
+  http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/setup_assistant/setup_assistant_tutorial.html
+  
